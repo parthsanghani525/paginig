@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b712dd8f-2b21-4b82-8871-9f4a37a4e1d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tASIMSzr6XjuGEIgjrBQKlElif" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b712dd8f-2b21-4b82-8871-9f4a37a4e1d9" name="Default Changelist" comment="" />
+      <created>1622210319571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622210319571</updated>
+    </task>
+    <task id="LOCAL-00001" summary="intial commit">
+      <created>1622262696199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622262696199</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="intial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="81" key="CommitChangelistDialog2" timestamp="1622262696025">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state x="518" y="81" key="CommitChangelistDialog2/0.25.1920.971@0.25.1920.971" timestamp="1622262696025" />
+    <state x="461" y="144" key="SettingsEditor" timestamp="1622210578157">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state x="461" y="144" key="SettingsEditor/0.25.1920.971@0.25.1920.971" timestamp="1622210578157" />
+    <state x="560" y="245" key="Vcs.Push.Dialog.v2" timestamp="1622262717462">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state x="560" y="245" key="Vcs.Push.Dialog.v2/0.25.1920.971@0.25.1920.971" timestamp="1622262717462" />
+  </component>
+</project>
